@@ -7,3 +7,10 @@
 4. RPC
 5. Socket
 6. Signal
+7. Sched
+
+register
+destroy
+attribute
+->
+<-
