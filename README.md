@@ -9,8 +9,8 @@
 6. Signal
 7. Sched
 
-register
-destroy
-attribute
-->
-<-
+- [x] register
+- [x] destroy
+- [x] attribute
+- [x] ->
+- [x] <-
